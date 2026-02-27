@@ -13,18 +13,18 @@ body {
 
 .container {
   width: 90%;
-  max-width: 720px;
+  max-width: 760px;
   margin: auto;
 }
 
-/* Hero Section */
+/* HERO */
 .hero {
   text-align: center;
   padding: 100px 0 60px 0;
 }
 
 .hero h1 {
-  font-size: 40px;
+  font-size: 42px;
   font-weight: 600;
 }
 
@@ -42,39 +42,39 @@ body {
   margin: 0 12px;
   font-size: 18px;
   color: #444;
-  transition: 0.3s;
+  transition: 0.3s ease;
 }
 
 .socials a:hover {
   color: #000;
 }
 
-/* About */
+/* ABOUT */
 .about {
   font-size: 18px;
-  margin-bottom: 60px;
+  margin-bottom: 70px;
 }
 
 .about p {
   margin-bottom: 20px;
 }
 
-/* Sections */
+/* SECTIONS */
 .section {
-  margin-bottom: 60px;
+  margin-bottom: 70px;
 }
 
 .section h2 {
-  font-size: 20px;
-  margin-bottom: 25px;
+  font-size: 18px;
+  margin-bottom: 30px;
   font-weight: 600;
-  letter-spacing: 0.5px;
   text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
-/* Items */
+/* ITEMS */
 .item {
-  margin-bottom: 25px;
+  margin-bottom: 28px;
 }
 
 .item-header {
@@ -94,15 +94,15 @@ body {
 }
 
 .item p {
-  margin-top: 5px;
-  color: #555;
+  margin-top: 6px;
   font-size: 15px;
+  color: #555;
 }
 
-/* Footer */
+/* FOOTER */
 footer {
   text-align: center;
-  padding: 50px 0;
+  padding: 60px 0;
   font-size: 14px;
   color: #888;
 }
